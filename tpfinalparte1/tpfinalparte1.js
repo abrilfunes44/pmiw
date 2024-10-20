@@ -1,3 +1,6 @@
+//Abril Funes 118947/3
+//video: https://www.youtube.com/watch?v=UBA4onIDixo
+
 let pantalla = [];
 let estado;
 let musica;
