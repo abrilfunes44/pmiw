@@ -1,4 +1,4 @@
-//Funes Abril, 
+//Funes Abril, 118947/3
 //video:https://youtu.be/TMvqqEMmACY
 
 let objjuego, objpantalla;
