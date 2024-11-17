@@ -1,3 +1,6 @@
+//Funes Abril, 
+//video:https://youtu.be/TMvqqEMmACY
+
 let objjuego, objpantalla;
 let fondo, inicio;
 let pantallas = [];
