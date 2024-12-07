@@ -6,7 +6,6 @@ class autoenemigos {
     this.posx2 = 420;
     this.posx = random(this.posx1, this.posx2);
     this.vel = 6;
-    this.colisiona = false;
   }
 
 
