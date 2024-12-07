@@ -1,5 +1,5 @@
 //Funes Abril, 118947/3
-//video: https://youtu.be/FFtHP85mhq0
+//video: https://www.youtube.com/watch?v=Con6b-Cqj-Q
 
 let objjuego, objpantalla;
 let pantallas = [], autos = [], texto = [];
